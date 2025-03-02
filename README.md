@@ -14,5 +14,7 @@ A secure and efficient password manager built using Python and Tkinter, designed
 ## Installation ⚙️  
 1. Clone the repository:  
    ```bash
- https://github.com/0ETHICAL0/Password_Manager_CW1.git
- cd Password_Manager_CW1
+    https://github.com/0ETHICAL0/Password_Manager_CW1.git
+    cd Password_Manager_CW1
+
+
